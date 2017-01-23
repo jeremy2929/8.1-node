@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router'
-import Header from './Header'
-import Footer from './Footer'
+import Header from 'js/Header'
+import Footer from 'js/Footer'
 
 export default React.createClass({
   render() {
